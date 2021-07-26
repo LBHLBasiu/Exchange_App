@@ -1,0 +1,11 @@
+section {
+  display: inline-block;
+}
+
+.container {
+  position: relative;
+  top: 160px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
